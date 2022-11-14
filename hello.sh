@@ -1,3 +1,7 @@
 #!/usr/bin/bash
 
-echo "hello world!"
+say_hi(){
+	echo "hello world!"
+}
+
+say_hi
